@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryansid&show_icons=true&theme=radical)
 
 <!--
 **aliyanishfaq/aliyanishfaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on an AI-powered document editor for freelance writers
