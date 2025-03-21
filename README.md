@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 -->
 - 🔭 Building multi-agent systems. Shoot me an email aliyan@stanford.edu
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/aliyanishfaq/stats)
-
