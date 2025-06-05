@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Building multi-agent systems. Shoot me an email aliyan@stanford.edu
+- learning, working on cool projects? shoot me an email aliyan@stanford.edu
 
